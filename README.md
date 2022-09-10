@@ -1,4 +1,4 @@
-# <h2 align="centre"><i><b>💖TECHNO MINDZ BOT-1💝</i></b></h2>
+# <h2 align="centre"><i><b>dream big</i></b></h2>
 
 ### <b>COMMAN BOT FOR ALL MY TECHNOMINDZ SUBSCRIBERS With Pm Feature and 4GB Files Supporting Working One</b>
 
