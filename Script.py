@@ -11,7 +11,7 @@ class script(object):
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Techno Mindz is A Open Source Project. 
+- sdis A Open Source Project. 
 - You Can Find The Repo Link Below 👇👇
 - Source - <a href=https://github.com/TechnoMindz/CommonBot_For_All><b><i>Techno Mindz</i></b></a>  
 
