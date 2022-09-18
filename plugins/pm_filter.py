@@ -410,7 +410,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('🤖 Updates', url='https://t.me/TmMainChannel')
         ], [
             InlineKeyboardButton('ℹ️ need Help', callback_data='help'),
-            InlineKeyboardButton('😊 About me', callback_data='about')
+            InlineKeyboardButton('😊 meh', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         r=await query.message.reply_text('▣▣▢▢▢▢')
